@@ -9,10 +9,10 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%">♫<br><strong>Analyze Songs</strong><br>Find chords and keys from audio files or supported YouTube links.</td>
-    <td align="center" valign="top" width="25%">♬<br><strong>Lyrics + Chords</strong><br>Read chord annotations and follow playback when lyrics are synced.</td>
-    <td align="center" valign="top" width="25%">♯<br><strong>Chord Diagrams</strong><br>Explore voicings on piano, guitar, and bass.</td>
-    <td align="center" valign="top" width="25%">▷<br><strong>Practice &amp; Learn</strong><br>Adjust speed, loop a passage, transpose, or use capo and chord numbers.</td>
+    <td align="center" valign="top" width="25%">♫<br><strong>Analyze</strong><br>Find keys and chords.</td>
+    <td align="center" valign="top" width="25%">♬<br><strong>Lyrics</strong><br>Follow lyrics with chords.</td>
+    <td align="center" valign="top" width="25%">♯<br><strong>Chords</strong><br>Piano, guitar, and bass.</td>
+    <td align="center" valign="top" width="25%">▷<br><strong>Practice</strong><br>Loop and slow down.</td>
   </tr>
 </table>
 
