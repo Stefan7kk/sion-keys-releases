@@ -8,34 +8,27 @@
 
 <h1 align="center">Analyze songs. Find chords. Learn. Play.</h1>
 
-<div align="center">
-
-Available in 23 languages
-
-<details>
-<summary>Show languages</summary>
-
-<b>English</b> · Български · עברית · Türkçe · Español · Français · Deutsch · Português · Italiano · Русский · 简体中文 · 日本語 · 한국어 · العربية · हिन्दी · বাংলা · Bahasa Indonesia · اردو · Tiếng Việt · ไทย · Polski · Українська · Română
-
-</details>
-
-</div>
+<p align="center" dir="ltr">
+  <b>English</b> · <a href="docs/i18n/README.bg.md">Български</a> · <a href="docs/i18n/README.he.md">עברית</a> · <a href="docs/i18n/README.tr.md">Türkçe</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.de.md">Deutsch</a> · <a href="docs/i18n/README.pt.md">Português</a> · <a href="docs/i18n/README.it.md">Italiano</a> · <a href="docs/i18n/README.ru.md">Русский</a> · <a href="docs/i18n/README.zh.md">简体中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.ar.md">العربية</a> · <a href="docs/i18n/README.hi.md">हिन्दी</a> · <a href="docs/i18n/README.bn.md">বাংলা</a> · <a href="docs/i18n/README.id.md">Bahasa Indonesia</a> · <a href="docs/i18n/README.ur.md">اردو</a> · <a href="docs/i18n/README.vi.md">Tiếng Việt</a> · <a href="docs/i18n/README.th.md">ไทย</a> · <a href="docs/i18n/README.pl.md">Polski</a> · <a href="docs/i18n/README.uk.md">Українська</a> · <a href="docs/i18n/README.ro.md">Română</a>
+</p>
 
 <p align="center">
   <b>Chord &amp; Key Analyzer for Musicians, Learners and Worship Teams.</b><br>
   Discover the chords and musical key of your favorite songs, follow lyrics with chord annotations, and practice with interactive piano, guitar and bass diagrams.
 </p>
 
-<p align="center">
+<p align="center" dir="ltr">
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
-  <img alt="Free to use" src="https://img.shields.io/badge/Free-to%20use-3a3a3a?style=flat-square">
   <a href="LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <img alt="Automatic updates" src="https://img.shields.io/badge/updates-automatic-1f6feb?style=flat-square">
+  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/download/v0.1.0/SionKeys_0.1.0_windows_x64_setup.exe"><img alt="Download Sion Keys 0.1.0 for Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">All releases</a> · <a href="https://github.com/Stefan7kk/sion-keys-source">View source code</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Download Sion Keys for Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
+  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>Source Code</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">All releases</a>
 </p>
 
 <table width="100%">
@@ -55,14 +48,89 @@ Available in 23 languages
   >
 </p>
 
+<h2 align="center">Available in 23 Languages</h2>
+
+<p align="center">Sion Keys is available in 23 interface languages, helping musicians around the world explore and practice music more comfortably.</p>
+
+<p align="center" dir="ltr">English · Български · עברית · Türkçe · Español · Français · Deutsch · Português · Italiano · Русский · 简体中文 · 日本語 · 한국어 · العربية · हिन्दी · বাংলা · Bahasa Indonesia · اردو · Tiếng Việt · ไทย · Polski · Українська · Română</p>
+
+## Explore Sion Keys
+
+<table>
+  <tr>
+    <td valign="top"><strong>Audio and YouTube Analysis</strong></td>
+    <td>Analyze supported audio files and YouTube links to estimate the musical key and chords.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Chord Timeline</strong></td>
+    <td>Explore detected chord changes along the audio waveform.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Lyrics Sheet</strong></td>
+    <td>Read lyrics and chord annotations, with playback following when synchronization is available.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Piano, Guitar and Bass</strong></td>
+    <td>Explore chord diagrams and the current and upcoming chords.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Practice Tools</strong></td>
+    <td>A–B loop, adjustable playback speed, transposition, capo and chord numbers.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>All Chords / Clean Progression</strong></td>
+    <td>Choose between detailed chord detection and a simpler progression-focused view.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Song History</strong></td>
+    <td>Reopen previous analyses.</td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Personalization</strong></td>
+    <td>Ice, Warm, Rich and Dark themes, a multilingual interface, and practical settings.</td>
+  </tr>
+</table>
+
 ## Quick Start
 
-1. Download and install Sion Keys.
+1. Download [Sion Keys for Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) and install it. The current release is [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). The [installation guide](INSTALLATION.md) explains how to confirm the installer.
 2. Open an audio file or use a supported YouTube link.
 3. Analyze the song.
-4. Explore detected chords and musical key.
+4. Explore the estimated key and the detected chords.
 5. Follow the Lyrics Sheet and chord diagrams.
-6. Practice with looping, tempo controls and transposition.
+6. Practice with looping, tempo, transposition and capo.
+
+The installer includes the core analysis engine. Local lyric transcription is optional and is not inside the installer: its separate setup downloads a Whisper model. Song analysis does not require that setup. Details are in the [installation guide](INSTALLATION.md).
+
+## Open Source
+
+The original Sion Keys application code is available under the [MIT License](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) in the public repository [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source).
+
+The desktop app is built with Tauri, React and TypeScript. Audio analysis is implemented in Python, and FFmpeg is used for media handling.
+
+You can inspect the implementation, report issues and contribute improvements. Bundled dependencies, artwork, models and other third-party resources keep their own licenses. Those terms are listed in the [third-party notices](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md).
+
+## Contribute
+
+Contributions belong in the [public source repository](https://github.com/Stefan7kk/sion-keys-source).
+
+- Report bugs.
+- Suggest improvements.
+- Submit pull requests.
+- Improve translations.
+- Help test music-analysis features.
+
+Open an [issue](https://github.com/Stefan7kk/sion-keys-source/issues) with steps to reproduce and the app version, or send a pull request to the same repository. In a public example, use audio and lyrics you have permission to share. Questions about the installed app can also go to [support issues](https://github.com/Stefan7kk/sion-keys-releases/issues) on this downloads repository.
+
+<details>
+<summary>About analysis results</summary>
+
+- Key and chord detection are estimates.
+- Lyrics matching and synchronization depend on available data and audio quality.
+- Optional local transcription may require additional setup.
+- Some recordings may have uncertain time signatures.
+
+</details>
 
 ## The Story Behind Sion Keys
 
