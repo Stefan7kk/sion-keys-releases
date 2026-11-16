@@ -8,9 +8,18 @@
 
 <h1 align="center">Analyze songs. Find chords. Learn. Play.</h1>
 
-<p align="center">
-  <b>English</b> · Български · עברית · Türkçe · Español · Français · Deutsch · Português · Italiano · Русский · 简体中文 · 日本語 · 한국어 · العربية · हिन्दी · বাংলা · Bahasa Indonesia · اردو · Tiếng Việt · ไทย · Polski · Українська · Română
-</p>
+<div align="center">
+
+Available in 23 languages
+
+<details>
+<summary>Show languages</summary>
+
+<b>English</b> · Български · עברית · Türkçe · Español · Français · Deutsch · Português · Italiano · Русский · 简体中文 · 日本語 · 한국어 · العربية · हिन्दी · বাংলা · Bahasa Indonesia · اردو · Tiếng Việt · ไทย · Polski · Українська · Română
+
+</details>
+
+</div>
 
 <p align="center">
   <b>Chord &amp; Key Analyzer for Musicians, Learners and Worship Teams.</b><br>
@@ -25,16 +34,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Download Sion Keys for Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys%20for%20Windows%20(64--bit)-1f6feb?style=for-the-badge"></a><br>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/download/v0.1.0/SionKeys_0.1.0_windows_x64_setup.exe"><img alt="Download Sion Keys 0.1.0 for Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a><br>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">All releases</a> · <a href="https://github.com/Stefan7kk/sion-keys-source">View source code</a>
 </p>
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%"><img src="assets/icons/analyze.png" width="32" alt=""><br><strong>Analyze Songs</strong><br>Discover chords and musical keys from audio files and supported YouTube links.</td>
-    <td align="center" valign="top" width="25%"><img src="assets/icons/lyrics.png" width="32" alt=""><br><strong>Lyrics + Chords</strong><br>Read lyrics with chord annotations and follow playback where synchronization is available.</td>
-    <td align="center" valign="top" width="25%"><img src="assets/icons/diagrams.png" width="32" alt=""><br><strong>Chord Diagrams</strong><br>Explore interactive piano, guitar and bass chord diagrams.</td>
-    <td align="center" valign="top" width="25%"><img src="assets/icons/practice.png" width="32" alt=""><br><strong>Practice &amp; Learn</strong><br>Use A–B looping, speed adjustment, transpose, capo and chord progression controls.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/analyze.png" width="32" alt=""><br><strong>Analyze Songs</strong><br>Find chords and keys in audio files and supported YouTube links.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/lyrics.png" width="32" alt=""><br><strong>Lyrics + Chords</strong><br>Read lyrics with chords and follow playback when it is synced.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/diagrams.png" width="32" alt=""><br><strong>Chord Diagrams</strong><br>Interactive piano, guitar and bass diagrams.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/practice.png" width="32" alt=""><br><strong>Practice &amp; Learn</strong><br>Loop, change speed, transpose, capo and progression controls.</td>
   </tr>
 </table>
 
@@ -113,7 +122,3 @@ Above all, I am grateful to God for the opportunity to build something that may 
 [Open a support issue](https://github.com/Stefan7kk/sion-keys-releases/issues) with your app and Windows versions and a short description of what happened. Keep private recordings, lyrics, and account details out of public reports.
 
 Copyright © 2026 Stefan Dimov. The installer includes the [MIT license](LICENSE) and notices for bundled third-party components.
-
-<p align="center">
-  <img src="assets/sion-keys-banner-dark.png" alt="Sion Keys. Chord and Key Analyzer. Analyze songs. Find chords. Learn. Play." width="100%">
-</p>
