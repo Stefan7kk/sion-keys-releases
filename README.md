@@ -1,92 +1,61 @@
 <p align="center">
-  <img src="assets/sion-keys-banner.png" alt="Sion Keys · Chord & Key Analyzer. Analyze songs. Find chords. Learn. Play." width="100%">
+  <img src="assets/sion-keys-banner.png" alt="Sion Keys. Chord and Key Analyzer. Analyze songs. Find chords. Learn. Play." width="100%">
 </p>
 
 <h1 align="center">Sion Keys</h1>
 <p align="center"><strong>Chord &amp; Key Analyzer for Musicians, Learners and Worship Teams</strong></p>
-<p align="center">Sion Keys helps you discover the musical key and chords of your favorite songs, follow lyrics with chord annotations, explore interactive chord diagrams and practice at your own pace.</p>
-<p align="center"><strong>Windows 10/11</strong> · <strong>Free to Use</strong> · <strong>Automatic Updates</strong> · <strong>Worship-Friendly</strong></p>
+<p align="center">Discover the chords and musical key of your favorite songs, follow lyrics with chord annotations, and practice with interactive piano, guitar and bass diagrams.</p>
+<p align="center">Windows 10/11 · Free to Use · Automatic Updates · Worship-Friendly</p>
+
+<p align="center">
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><strong>Download Sion Keys for Windows (64-bit)</strong></a><br>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">All releases</a>
+</p>
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%">♫<br><strong>Analyze</strong><br>Find keys and chords.</td>
-    <td align="center" valign="top" width="25%">♬<br><strong>Lyrics</strong><br>Follow lyrics with chords.</td>
-    <td align="center" valign="top" width="25%">♯<br><strong>Chords</strong><br>Piano, guitar, and bass.</td>
-    <td align="center" valign="top" width="25%">▷<br><strong>Practice</strong><br>Loop and slow down.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/analyze.png" width="32" alt=""><br><strong>Analyze Songs</strong><br>Discover chords and musical keys from audio files and supported YouTube links.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/lyrics.png" width="32" alt=""><br><strong>Lyrics + Chords</strong><br>Read lyrics with chord annotations and follow playback where synchronization is available.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/diagrams.png" width="32" alt=""><br><strong>Chord Diagrams</strong><br>Explore interactive piano, guitar and bass chord diagrams.</td>
+    <td align="center" valign="top" width="25%"><img src="assets/icons/practice.png" width="32" alt=""><br><strong>Practice &amp; Learn</strong><br>Use A–B looping, speed adjustment, transpose, capo and chord progression controls.</td>
   </tr>
 </table>
 
-## Analyze a Song
+<p align="center">
+  <img
+    src="assets/images/sion-keys-feature-showcase.png"
+    alt="Sion Keys promotional feature overview showing the Analyze page, key and chord detection, playback timeline, lyrics and piano chord diagrams"
+    width="100%"
+  >
+</p>
 
-[![Sion Keys Analyze screen in Ice with an estimated key, detected chords, Key Match, Practice Tools, waveform, Lyrics Sheet, Chord Diagrams, and Song Information](assets/screenshots/analyze.webp)](assets/screenshots/analyze.webp)
+## Themes
 
-*The standard Analyze layout in the Windows app, shown with a sample progression.*
+Choose Ice, Warm, Rich, or Dark in **Settings → Appearance**.
 
-## Download Sion Keys
-
-**Free for Windows 10 and Windows 11 (64-bit).**
-
-**[⬇ Download for Windows (64-bit)](https://github.com/Stefan7kk/sion-keys-releases/releases/latest)**
-
-The current release is **v0.1.0**. Open **Assets** and choose the Windows setup file (about **191 MiB**). [All releases](https://github.com/Stefan7kk/sion-keys-releases/releases) · [Installation and checksums](INSTALLATION.md) · [Changelog](CHANGELOG.md)
-
-Sion Keys uses Microsoft Edge WebView2. The audio analysis engine ships with the installer. The optional Whisper setup is for local lyric transcription. Windows may show an unknown-publisher prompt for v0.1.0.
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-ice.webp"><img src="assets/screenshots/theme-ice.webp" alt="Sion Keys welcome screen in the Ice theme" width="100%"></a><br><strong>Ice</strong></td>
+    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-warm.webp"><img src="assets/screenshots/theme-warm.webp" alt="Sion Keys welcome screen in the Warm theme" width="100%"></a><br><strong>Warm</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-rich.webp"><img src="assets/screenshots/theme-rich.webp" alt="Sion Keys welcome screen in the Rich theme" width="100%"></a><br><strong>Rich</strong></td>
+    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-dark.webp"><img src="assets/screenshots/theme-dark.webp" alt="Sion Keys welcome screen in the Dark theme" width="100%"></a><br><strong>Dark</strong></td>
+  </tr>
+</table>
 
 ## Quick Start
 
-1. Download the latest Windows installer.
-2. Install and launch Sion Keys.
-3. Open an audio file or use a supported YouTube link.
-4. Analyze the song to discover its estimated key and chords.
-5. Explore the Lyrics Sheet and chord diagrams.
-6. Practice a passage using playback, looping, and speed controls.
-
-## Lyrics Sheet
-
-Read lyrics with chords above the words. **Follow playback** highlights the current line when timing and playable audio are available.
-
-[![Compact Lyrics Sheet showing chords above lyrics and the Follow playback control](assets/screenshots/lyrics-sheet.webp)](assets/screenshots/lyrics-sheet.webp)
-
-## Chord Diagrams
-
-Switch between **Piano**, **Guitar**, and **Bass**. The diagrams show chord tones or fingerings for the selected instrument. Current and upcoming chords follow your position in the song.
-
-[![Piano selected in Chord Diagrams with the current and next chords highlighted](assets/screenshots/chord-diagrams.webp)](assets/screenshots/chord-diagrams.webp)
-
-## Practice Tools and Timeline
-
-Set an **A–B loop**, slow down playback, choose a capo position, or transpose the displayed chords. Switch between **All Chords** and **Clean Progression**, and click the timeline to jump to a passage.
-
-[![Practice Tools strip above a waveform and chord timeline with All Chords selected](assets/screenshots/practice-timeline.webp)](assets/screenshots/practice-timeline.webp)
-
-## History
-
-Find and reopen past analyses using the search and filters in **History**. Export chord sheets or analysis data from the Analyze page.
-
-[![Sion Keys History with example analyses, filters, and Re-open buttons](assets/screenshots/history.webp)](assets/screenshots/history.webp)
-
-## Four Themes
-
-Choose Ice, Warm, Rich, or Dark in **Settings → Appearance**. Select a screenshot to open it at full size.
-
-<table width="100%">
-  <tr>
-    <td align="center" width="50%"><a href="assets/screenshots/theme-ice.webp"><img src="assets/screenshots/theme-ice.webp" alt="Sion Keys welcome screen in the Ice theme" width="100%"></a><br><strong>Ice</strong></td>
-    <td align="center" width="50%"><a href="assets/screenshots/theme-warm.webp"><img src="assets/screenshots/theme-warm.webp" alt="Sion Keys welcome screen in the Warm theme" width="100%"></a><br><strong>Warm</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><a href="assets/screenshots/theme-rich.webp"><img src="assets/screenshots/theme-rich.webp" alt="Sion Keys welcome screen in the Rich theme" width="100%"></a><br><strong>Rich</strong></td>
-    <td align="center" width="50%"><a href="assets/screenshots/theme-dark.webp"><img src="assets/screenshots/theme-dark.webp" alt="Sion Keys welcome screen in the Dark theme" width="100%"></a><br><strong>Dark</strong></td>
-  </tr>
-</table>
-
-The interface is available in 23 languages, including right-to-left languages. Use **Settings → Check for Updates** to look for a newer release. Sion Keys verifies the updater signature before installing an update. [Installation and updates](INSTALLATION.md)
+1. Download and install Sion Keys.
+2. Open an audio file or use a supported YouTube link.
+3. Analyze the song.
+4. Explore detected chords and musical key.
+5. Follow the Lyrics Sheet and chord diagrams.
+6. Practice with looping, tempo controls and transposition.
 
 ## The Story Behind Sion Keys
 
-Sion Keys grew from a love of music, a personal journey of faith and a desire to help others learn the songs they love. Inspired by the joy of worship and the challenge of learning music by ear, the project aims to make exploring chords, musical keys and song arrangements simpler and more accessible.
-
-<p align="center"><img src="assets/story-landscape.webp" alt="Sunrise over the mountain lake from the Ice theme" width="260"></p>
+Sion Keys grew from a love of music, a personal journey of faith and a desire to help others discover, understand and play the songs they love.
 
 <details>
 <summary>Read the full story</summary>
@@ -135,7 +104,9 @@ Above all, I am grateful to God for the opportunity to build something that may 
 
 </details>
 
-## Support and License
+## Support
+
+[Latest release](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) · [Installation guide](INSTALLATION.md) · [Changelog](CHANGELOG.md) · [Support](https://github.com/Stefan7kk/sion-keys-releases/issues) · [License](LICENSE)
 
 [Open a support issue](https://github.com/Stefan7kk/sion-keys-releases/issues) with your app and Windows versions and a short description of what happened. Keep private recordings, lyrics, and account details out of public reports.
 
