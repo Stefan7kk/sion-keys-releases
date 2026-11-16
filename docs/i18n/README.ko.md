@@ -94,7 +94,7 @@
 
 ## 빠른 시작
 
-1. [Windows용 Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest)를 받아 설치하세요. 현재 릴리스는 [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0)입니다. [설치 안내](../../INSTALLATION.md)에 설치 파일을 확인하는 방법이 있습니다.
+1. [Windows용 Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest)를 받아 설치하세요. 현재 릴리스는 [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1)입니다. [설치 안내](../../INSTALLATION.md)에 설치 파일을 확인하는 방법이 있습니다.
 2. 오디오 파일을 열거나 지원되는 YouTube 링크를 사용하세요.
 3. 곡을 분석하세요.
 4. 추정된 조성과 검출된 코드를 살펴보세요.

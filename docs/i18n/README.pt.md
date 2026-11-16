@@ -94,7 +94,7 @@
 
 ## Começo rápido
 
-1. Baixe o [Sion Keys para Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) e instale. A versão atual é a [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). O [guia de instalação](../../INSTALLATION.md) explica como confirmar o instalador.
+1. Baixe o [Sion Keys para Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) e instale. A versão atual é a [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). O [guia de instalação](../../INSTALLATION.md) explica como confirmar o instalador.
 2. Abra um arquivo de áudio ou use um link compatível do YouTube.
 3. Analise a música.
 4. Explore a tonalidade estimada e os acordes detectados.

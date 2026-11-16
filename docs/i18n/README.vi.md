@@ -94,7 +94,7 @@
 
 ## Bắt đầu nhanh
 
-1. Tải [Sion Keys cho Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) và cài. Bản hiện tại là [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). [Hướng dẫn cài đặt](../../INSTALLATION.md) nói cách kiểm tra trình cài.
+1. Tải [Sion Keys cho Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) và cài. Bản hiện tại là [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). [Hướng dẫn cài đặt](../../INSTALLATION.md) nói cách kiểm tra trình cài.
 2. Mở một tệp âm thanh hoặc dùng liên kết YouTube được hỗ trợ.
 3. Phân tích bài hát.
 4. Xem điệu ước lượng và các hợp âm đã nhận.

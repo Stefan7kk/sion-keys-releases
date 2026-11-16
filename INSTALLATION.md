@@ -10,14 +10,14 @@ Sion Keys is distributed as a Windows x64 desktop installer.
 
 The installer includes the core audio analysis engine. The separate Whisper setup is optional and is used for local lyric transcription and verification. If a release includes that helper, see its release notes for setup details.
 
-Windows may show an unknown-publisher warning for v0.1.0. Confirm the installer came from the official release and compare its SHA-256 checksum before running it.
+Windows may show an unknown-publisher warning for the installer. Confirm the installer came from the official release and compare its SHA-256 checksum before running it.
 
 ## Verify a download
 
-Download `SHA256SUMS.txt` from the same release. In PowerShell, run this command from the download folder for v0.1.0:
+Download `SHA256SUMS.txt` from the same release. In PowerShell, run this command from the download folder, using the filename of the installer you downloaded:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath '.\SionKeys_0.1.0_windows_x64_setup.exe'
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\SionKeys_0.1.1_windows_x64_setup.exe'
 ```
 
 Compare the result to the line for that installer in `SHA256SUMS.txt`. Download the file again from GitHub Releases if the hashes differ.

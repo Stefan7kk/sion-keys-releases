@@ -94,7 +94,7 @@
 
 ## فوری آغاز
 
-1. [Windows کے لیے Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) ڈاؤن لوڈ کر کے نصب کریں۔ موجودہ ریلیز [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0) ہے۔ [نصب کی رہنما](../../INSTALLATION.md) بتاتی ہے کہ انسٹالر کی تصدیق کیسے کریں۔
+1. [Windows کے لیے Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) ڈاؤن لوڈ کر کے نصب کریں۔ موجودہ ریلیز [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1) ہے۔ [نصب کی رہنما](../../INSTALLATION.md) بتاتی ہے کہ انسٹالر کی تصدیق کیسے کریں۔
 2. ایک آڈیو فائل کھولیں یا معاون YouTube ربط استعمال کریں۔
 3. گانے کا تجزیہ کریں۔
 4. اندازہ شدہ سر اور پہچانے گئے کورڈز دیکھیں۔

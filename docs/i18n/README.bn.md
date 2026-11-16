@@ -94,7 +94,7 @@
 
 ## দ্রুত শুরু
 
-1. [Windows-এর জন্য Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) ডাউনলোড করে ইনস্টল করুন। বর্তমান রিলিজ [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0)। [ইনস্টলেশন নির্দেশিকা](../../INSTALLATION.md)-তে ইনস্টলার যাচাইয়ের কথা আছে।
+1. [Windows-এর জন্য Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) ডাউনলোড করে ইনস্টল করুন। বর্তমান রিলিজ [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1)। [ইনস্টলেশন নির্দেশিকা](../../INSTALLATION.md)-তে ইনস্টলার যাচাইয়ের কথা আছে।
 2. একটি অডিও ফাইল খুলুন বা সমর্থিত YouTube লিংক ব্যবহার করুন।
 3. গানটি বিশ্লেষণ করুন।
 4. অনুমিত সুর ও শনাক্ত কর্ড দেখুন।

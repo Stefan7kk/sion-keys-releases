@@ -94,7 +94,7 @@
 
 ## เริ่มอย่างรวดเร็ว
 
-1. ดาวน์โหลด [Sion Keys สำหรับ Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) แล้วติดตั้ง รุ่นปัจจุบันคือ [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0) [คู่มือติดตั้ง](../../INSTALLATION.md) อธิบายวิธีตรวจไฟล์ติดตั้ง
+1. ดาวน์โหลด [Sion Keys สำหรับ Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) แล้วติดตั้ง รุ่นปัจจุบันคือ [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1) [คู่มือติดตั้ง](../../INSTALLATION.md) อธิบายวิธีตรวจไฟล์ติดตั้ง
 2. เปิดไฟล์เสียง หรือใช้ลิงก์ YouTube ที่รองรับ
 3. วิเคราะห์เพลง
 4. ดูกุญแจเสียงที่ประมาณไว้และคอร์ดที่ตรวจพบ

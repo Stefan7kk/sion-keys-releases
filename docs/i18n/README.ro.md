@@ -94,7 +94,7 @@
 
 ## Pornire rapidă
 
-1. Descarcă [Sion Keys pentru Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) și instalează-l. Versiunea actuală este [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). [Ghidul de instalare](../../INSTALLATION.md) explică cum confirmi programul de instalare.
+1. Descarcă [Sion Keys pentru Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) și instalează-l. Versiunea actuală este [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). [Ghidul de instalare](../../INSTALLATION.md) explică cum confirmi programul de instalare.
 2. Deschide un fișier audio sau folosește un link YouTube acceptat.
 3. Analizează cântecul.
 4. Explorează tonalitatea estimată și acordurile detectate.

@@ -94,7 +94,7 @@
 
 ## त्वरित आरंभ
 
-1. [Windows के लिए Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) डाउनलोड करके स्थापित करें। वर्तमान रिलीज़ [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0) है। [स्थापना मार्गदर्शिका](../../INSTALLATION.md) बताती है कि इंस्टॉलर की जाँच कैसे करें।
+1. [Windows के लिए Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) डाउनलोड करके स्थापित करें। वर्तमान रिलीज़ [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1) है। [स्थापना मार्गदर्शिका](../../INSTALLATION.md) बताती है कि इंस्टॉलर की जाँच कैसे करें।
 2. एक ऑडियो फ़ाइल खोलें या समर्थित YouTube लिंक का उपयोग करें।
 3. गाने का विश्लेषण करें।
 4. अनुमानित सुर और पहचाने गए कॉर्ड देखें।

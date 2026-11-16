@@ -94,7 +94,7 @@
 
 ## Mulai cepat
 
-1. Unduh [Sion Keys untuk Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) dan pasang. Rilis saat ini adalah [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). [Panduan pemasangan](../../INSTALLATION.md) menjelaskan cara memeriksa pemasang.
+1. Unduh [Sion Keys untuk Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) dan pasang. Rilis saat ini adalah [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). [Panduan pemasangan](../../INSTALLATION.md) menjelaskan cara memeriksa pemasang.
 2. Buka berkas audio atau gunakan tautan YouTube yang didukung.
 3. Analisis lagunya.
 4. Jelajahi tangga nada yang diperkirakan dan akor yang terdeteksi.

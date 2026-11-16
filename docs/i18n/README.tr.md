@@ -94,7 +94,7 @@
 
 ## Hızlı başlangıç
 
-1. [Windows için Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) sürümünü indirip kurun. Güncel sürüm [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). [Kurulum kılavuzu](../../INSTALLATION.md) kurucunun nasıl doğrulanacağını anlatır.
+1. [Windows için Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) sürümünü indirip kurun. Güncel sürüm [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). [Kurulum kılavuzu](../../INSTALLATION.md) kurucunun nasıl doğrulanacağını anlatır.
 2. Bir ses dosyası açın veya desteklenen bir YouTube bağlantısı kullanın.
 3. Şarkıyı analiz edin.
 4. Tahmin edilen tonu ve tespit edilen akorları inceleyin.

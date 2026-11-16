@@ -94,7 +94,7 @@
 
 ## はじめに
 
-1. [Windows 版 Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) をダウンロードしてインストールします。現在のリリースは [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0) です。[インストールガイド](../../INSTALLATION.md) に、インストーラーの確認方法があります。
+1. [Windows 版 Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) をダウンロードしてインストールします。現在のリリースは [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1) です。[インストールガイド](../../INSTALLATION.md) に、インストーラーの確認方法があります。
 2. 音声ファイルを開くか、対応する YouTube リンクを使います。
 3. 曲を分析します。
 4. 推定された調と検出されたコードを見ます。
