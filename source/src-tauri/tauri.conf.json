@@ -1,0 +1,68 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Sion Keys",
+  "version": "0.1.1",
+  "identifier": "com.chordai.learn",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Sion Keys · Chord & Key Analyzer",
+        "width": 1440,
+        "height": 900,
+        "resizable": false,
+        "maximizable": false,
+        "center": true,
+        "decorations": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "nsis",
+    "createUpdaterArtifacts": true,
+    "copyright": "© 2026 Stefan Dimov",
+    "icon": [
+      "icons/icon.ico",
+      "icons/icon.png"
+    ],
+    "resources": [
+      "../LICENSE",
+      "../THIRD_PARTY_LICENSES.md",
+      "../resources/ffmpeg/ffmpeg.exe",
+      "../resources/ffmpeg/ffprobe.exe",
+      "../resources/ffmpeg/LICENSE.txt",
+      "../resources/ffmpeg/REDISTRIBUTION.md",
+      "../resources/chord-engine",
+      "../resources/node"
+    ],
+    "windows": {
+      "nsis": {
+        "installMode": "currentUser",
+        "installerIcon": "icons/icon.ico",
+        "uninstallerIcon": "icons/icon.ico",
+        "headerImage": "installer-assets/header.bmp",
+        "uninstallerHeaderImage": "installer-assets/header.bmp",
+        "sidebarImage": "installer-assets/sidebar.bmp",
+        "languages": ["English", "Bulgarian"],
+        "displayLanguageSelector": false,
+        "installerHooks": "installer-assets/first-light.nsh"
+      }
+    }
+  },
+  "plugins": {
+    "updater": {
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJCNTU4MEI1NDBBQTZBRDgKUldUWWFxcEF0WUJWSzl4R0g5ZlFkc2VsR3NDYlNqeGVYZEt5MTBhUXUzOVdHbllnREFjM1dtOEIK",
+      "endpoints": ["https://sion-keys-services.sion-keys.workers.dev/api/updates/latest.json"],
+      "requireSignedVersion": true
+    }
+  }
+}

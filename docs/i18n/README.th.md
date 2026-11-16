@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="ดาวน์โหลด Sion Keys สำหรับ Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>ซอร์สโค้ด</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">ทุกรุ่น</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>ซอร์สโค้ด</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">ทุกรุ่น</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@
 
 ## โอเพนซอร์ส
 
-โค้ดต้นฉบับของแอป Sion Keys อยู่ภายใต้[สัญญาอนุญาต MIT](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) ในที่เก็บสาธารณะ [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source)
+โค้ดต้นฉบับของแอป Sion Keys อยู่ภายใต้[สัญญาอนุญาต MIT](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE) ในที่เก็บสาธารณะ [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source)
 
 แอปเดสก์ท็อปสร้างด้วย Tauri, React และ TypeScript การวิเคราะห์เสียงเขียนด้วย Python และใช้ FFmpeg จัดการสื่อ
 
-คุณดูการทำให้เป็นจริง รายงานปัญหา และร่วมปรับปรุงได้ ส่วนที่รวมมา ภาพ โมเดล และทรัพยากรบุคคลที่สามอื่นยังใช้สัญญาอนุญาตของตนเอง เงื่อนไขอยู่ใน[ประกาศบุคคลที่สาม](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md)
+คุณดูการทำให้เป็นจริง รายงานปัญหา และร่วมปรับปรุงได้ ส่วนที่รวมมา ภาพ โมเดล และทรัพยากรบุคคลที่สามอื่นยังใช้สัญญาอนุญาตของตนเอง เงื่อนไขอยู่ใน[ประกาศบุคคลที่สาม](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md)
 
 ## ร่วมพัฒนา
 
-การร่วมพัฒนาทำใน[ที่เก็บซอร์สสาธารณะ](https://github.com/Stefan7kk/sion-keys-source)
+การร่วมพัฒนาทำใน[ที่เก็บซอร์สสาธารณะ](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source)
 
 - รายงานบั๊ก
 - เสนอการปรับปรุง
@@ -121,7 +121,7 @@
 - ปรับปรุงคำแปล
 - ช่วยทดสอบการวิเคราะห์ดนตรี
 
-เปิด[ประเด็น](https://github.com/Stefan7kk/sion-keys-source/issues)พร้อมขั้นตอนทำให้เกิดซ้ำและรุ่นของแอป หรือส่ง pull request ไปที่เก็บเดียวกัน ในตัวอย่างสาธารณะ ให้ใช้เสียงและเนื้อร้องที่คุณมีสิทธิ์แบ่งปัน คำถามเกี่ยวกับแอปที่ติดตั้งแล้วส่งไปที่[ประเด็นสนับสนุน](https://github.com/Stefan7kk/sion-keys-releases/issues)ของที่เก็บดาวน์โหลดนี้ได้เช่นกัน
+เปิด[ประเด็น](https://github.com/Stefan7kk/sion-keys-releases/issues)พร้อมขั้นตอนทำให้เกิดซ้ำและรุ่นของแอป หรือส่ง pull request ไปที่เก็บเดียวกัน ในตัวอย่างสาธารณะ ให้ใช้เสียงและเนื้อร้องที่คุณมีสิทธิ์แบ่งปัน คำถามเกี่ยวกับแอปที่ติดตั้งแล้วส่งไปที่[ประเด็นสนับสนุน](https://github.com/Stefan7kk/sion-keys-releases/issues)ของที่เก็บดาวน์โหลดนี้ได้เช่นกัน
 
 <details>
 <summary>เกี่ยวกับผลการวิเคราะห์</summary>

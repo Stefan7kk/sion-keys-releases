@@ -1,0 +1,32 @@
+[package]
+name = "my-chord-app"
+version = "0.1.1"
+description = "Sion Keys — key and chord analysis"
+authors = ["Stefan Dimov"]
+license = "MIT"
+edition = "2021"
+
+[lib]
+name = "my_chord_app_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-dialog = "2"
+tauri-plugin-fs = "2"
+tauri-plugin-shell = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+tauri-plugin-updater = "2"
+
+[target.'cfg(unix)'.dependencies]
+libc = "0.2"
+
+[profile.release]
+panic = "abort"
+codegen-units = 1
+lto = true

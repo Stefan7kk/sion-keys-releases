@@ -1,0 +1,39 @@
+{
+  "name": "sion-keys",
+  "private": true,
+  "license": "MIT",
+  "version": "0.1.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build",
+    "pack:engine": "powershell -ExecutionPolicy Bypass -File scripts/pack-engine.ps1",
+    "bundle:node": "powershell -ExecutionPolicy Bypass -File scripts/bundle-node.ps1",
+    "test:engine": "engine\\.venv\\Scripts\\python.exe engine\\tests\\test_key_chords.py && engine\\.venv\\Scripts\\python.exe engine\\tests\\test_evaluation.py && engine\\.venv\\Scripts\\python.exe engine\\tests\\test_sequence.py && engine\\.venv\\Scripts\\python.exe engine\\tests\\test_crema.py && engine\\.venv\\Scripts\\python.exe engine\\tests\\test_rhythm.py"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.8.0",
+    "@tauri-apps/plugin-dialog": "^2.4.0",
+    "@tauri-apps/plugin-fs": "^2.4.0",
+    "@tauri-apps/plugin-shell": "^2.3.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "@tauri-apps/cli": "2.12.4",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "@vitejs/plugin-react": "^5.0.2",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.5"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}
