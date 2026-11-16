@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../../assets/sion-keys-wordmark-dark.png">
-    <img src="../../assets/sion-keys-wordmark.png" alt="Sion Keys" width="480" height="148">
+    <img src="../../assets/sion-keys-wordmark.png" alt="Sion Keys" width="480" height="118">
   </picture>
 </p>
 
