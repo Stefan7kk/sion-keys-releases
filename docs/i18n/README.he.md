@@ -94,7 +94,7 @@
 
 ## התחלה מהירה
 
-1. הורידו את [Sion Keys ל־Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) והתקינו. המהדורה הנוכחית היא [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). [מדריך ההתקנה](../../INSTALLATION.md) מסביר איך לאמת את קובץ ההתקנה.
+1. הורידו את [Sion Keys ל־Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) והתקינו. המהדורה הנוכחית היא [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). [מדריך ההתקנה](../../INSTALLATION.md) מסביר איך לאמת את קובץ ההתקנה.
 2. פתחו קובץ שמע או השתמשו בקישור YouTube נתמך.
 3. נתחו את השיר.
 4. עיינו בסולם המוערך ובאקורדים שזוהו.

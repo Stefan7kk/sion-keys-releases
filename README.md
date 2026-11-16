@@ -93,7 +93,7 @@
 
 ## Quick Start
 
-1. Download [Sion Keys for Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) and install it. The current release is [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). The [installation guide](INSTALLATION.md) explains how to confirm the installer.
+1. Download [Sion Keys for Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) and install it. The current release is [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). The [installation guide](INSTALLATION.md) explains how to confirm the installer.
 2. Open an audio file or use a supported YouTube link.
 3. Analyze the song.
 4. Explore the estimated key and the detected chords.

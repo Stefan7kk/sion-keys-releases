@@ -94,7 +94,7 @@
 
 ## بداية سريعة
 
-1. نزّلوا [Sion Keys لـ Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) وثبّتوه. الإصدار الحالي هو [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). يشرح [دليل التثبيت](../../INSTALLATION.md) كيف تتأكدون من ملف التثبيت.
+1. نزّلوا [Sion Keys لـ Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) وثبّتوه. الإصدار الحالي هو [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). يشرح [دليل التثبيت](../../INSTALLATION.md) كيف تتأكدون من ملف التثبيت.
 2. افتحوا ملف صوت أو استخدموا رابط YouTube مدعومًا.
 3. حلّلوا الأغنية.
 4. استعرضوا المقام المقدَّر والأكوردات التي تم التعرّف إليها.

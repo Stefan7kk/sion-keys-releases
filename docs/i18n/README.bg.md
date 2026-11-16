@@ -94,7 +94,7 @@
 
 ## Бърз старт
 
-1. Изтеглете [Sion Keys за Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) и го инсталирайте. Текущото издание е [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0). [Ръководството за инсталиране](../../INSTALLATION.md) обяснява как да потвърдите инсталатора.
+1. Изтеглете [Sion Keys за Windows](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) и го инсталирайте. Текущото издание е [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1). [Ръководството за инсталиране](../../INSTALLATION.md) обяснява как да потвърдите инсталатора.
 2. Отворете аудиофайл или използвайте поддържана връзка от YouTube.
 3. Анализирайте песента.
 4. Разгледайте оценената тоналност и разпознатите акорди.

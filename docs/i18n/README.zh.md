@@ -94,7 +94,7 @@
 
 ## 快速开始
 
-1. 下载 [Windows 版 Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) 并安装。当前版本是 [v0.1.0](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.0)。[安装指南](../../INSTALLATION.md) 说明如何核对安装程序。
+1. 下载 [Windows 版 Sion Keys](https://github.com/Stefan7kk/sion-keys-releases/releases/latest) 并安装。当前版本是 [v0.1.1](https://github.com/Stefan7kk/sion-keys-releases/releases/tag/v0.1.1)。[安装指南](../../INSTALLATION.md) 说明如何核对安装程序。
 2. 打开音频文件，或使用支持的 YouTube 链接。
 3. 分析歌曲。
 4. 查看估计的调性和识别出的和弦。

@@ -1,5 +1,10 @@
 # Sion Keys changelog
 
+## v0.1.1 — YouTube Favorites
+
+- Save YouTube search results with a heart and reopen them from Favorites. The list is stored on your device.
+- Updated the Sion Keys wordmark across all four app themes and the installer.
+
 ## v0.1.0 — Initial Release
 
 The first Windows x64 version of Sion Keys brings song analysis and practice tools together in one desktop app.
