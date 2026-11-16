@@ -1,0 +1,27 @@
+{
+  "bundle": {
+    "targets": [
+      "deb"
+    ],
+    "icon": [
+      "icons/icon.png"
+    ],
+    "resources": {
+      "../LICENSE": "LICENSE",
+      "../THIRD_PARTY_LICENSES.md": "THIRD_PARTY_LICENSES.md",
+      "../resources/chord-engine-portable/chord-engine": "chord-engine/chord-engine",
+      "../resources/node-portable/node": "node/node",
+      "../resources/node-portable/LICENSE": "node/LICENSE"
+    },
+    "linux": {
+      "deb": {
+        "depends": [
+          "ffmpeg",
+          "curl",
+          "gstreamer1.0-plugins-good",
+          "gstreamer1.0-libav"
+        ]
+      }
+    }
+  }
+}

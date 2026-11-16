@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="base" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#191815"/>
+      <stop offset=".63" stop-color="#20201d"/>
+      <stop offset="1" stop-color="#111210"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="1" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#b9a48b" stop-opacity="0"/>
+      <stop offset=".58" stop-color="#b9a48b" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#dec5a3" stop-opacity=".42"/>
+    </linearGradient>
+    <radialGradient id="shade">
+      <stop stop-color="#161613" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#121310" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#base)" d="M0 0h480v560H0z"/>
+  <path fill="#272521" d="M0 420 480 160v400H0z"/>
+  <path fill="#34312b" d="M0 462 480 206v110L0 521z"/>
+  <path fill="#1c1c18" d="m0 526 480-186v220H0z"/>
+  <path fill="url(#beam)" d="M280 0h200v56L0 399V278z"/>
+  <path fill="#e5c7a3" opacity=".10" d="M447 0h33v22L0 344v-22z"/>
+  <ellipse cx="240" cy="276" rx="240" ry="226" fill="url(#shade)"/>
+</svg>

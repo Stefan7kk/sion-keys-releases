@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Windows کے لیے Sion Keys ڈاؤن لوڈ (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>سورس کوڈ</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">تمام ریلیز</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>سورس کوڈ</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">تمام ریلیز</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@
 
 ## اوپن سورس
 
-Sion Keys کی اصل ایپلیکیشن کوڈ [MIT لائسنس](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) کے تحت عوامی ذخیرے [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source) میں دستیاب ہے۔
+Sion Keys کی اصل ایپلیکیشن کوڈ [MIT لائسنس](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE) کے تحت عوامی ذخیرے [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source) میں دستیاب ہے۔
 
 ڈیسک ٹاپ ایپ Tauri، React اور TypeScript سے بنی ہے۔ آڈیو تجزیہ Python میں لکھا گیا ہے، اور میڈیا کے لیے FFmpeg استعمال ہوتا ہے۔
 
-آپ نفاذ دیکھ سکتے ہیں، مسائل بتا سکتے ہیں اور بہتری دے سکتے ہیں۔ شامل انحصار، تصاویر، ماڈل اور دیگر فریق ثالث کے وسائل اپنے لائسنس پر رہتے ہیں۔ شرائط [فریق ثالث کے نوٹس](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md) میں ہیں۔
+آپ نفاذ دیکھ سکتے ہیں، مسائل بتا سکتے ہیں اور بہتری دے سکتے ہیں۔ شامل انحصار، تصاویر، ماڈل اور دیگر فریق ثالث کے وسائل اپنے لائسنس پر رہتے ہیں۔ شرائط [فریق ثالث کے نوٹس](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md) میں ہیں۔
 
 ## حصہ
 
-حصہ [عوامی سورس ذخیرے](https://github.com/Stefan7kk/sion-keys-source) میں ہوتا ہے۔
+حصہ [عوامی سورس ذخیرے](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source) میں ہوتا ہے۔
 
 - خرابیاں بتائیں۔
 - بہتری تجویز کریں۔
@@ -121,7 +121,7 @@ Sion Keys کی اصل ایپلیکیشن کوڈ [MIT لائسنس](https://githu
 - ترجمے بہتر کریں۔
 - موسیقی کے تجزیے کی جانچ میں مدد کریں۔
 
-دہرانے کے مراحل اور ایپ ورژن کے ساتھ ایک [مسئلہ](https://github.com/Stefan7kk/sion-keys-source/issues) کھولیں، یا اسی ذخیرے میں پل ریکوئسٹ بھیجیں۔ عوامی مثال میں ایسی آڈیو اور بول استعمال کریں جنہیں بانٹنے کی آپ کو اجازت ہو۔ نصب ایپ کے سوال اس ڈاؤن لوڈ ذخیرے کے [مدد کے مسائل](https://github.com/Stefan7kk/sion-keys-releases/issues) میں بھی جا سکتے ہیں۔
+دہرانے کے مراحل اور ایپ ورژن کے ساتھ ایک [مسئلہ](https://github.com/Stefan7kk/sion-keys-releases/issues) کھولیں، یا اسی ذخیرے میں پل ریکوئسٹ بھیجیں۔ عوامی مثال میں ایسی آڈیو اور بول استعمال کریں جنہیں بانٹنے کی آپ کو اجازت ہو۔ نصب ایپ کے سوال اس ڈاؤن لوڈ ذخیرے کے [مدد کے مسائل](https://github.com/Stefan7kk/sion-keys-releases/issues) میں بھی جا سکتے ہیں۔
 
 <details>
 <summary>تجزیے کے نتائج کے بارے میں</summary>

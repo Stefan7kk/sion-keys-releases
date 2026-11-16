@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Windows용 Sion Keys 다운로드(64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>소스 코드</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">모든 릴리스</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>소스 코드</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">모든 릴리스</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@
 
 ## 오픈 소스
 
-Sion Keys 애플리케이션의 원래 코드는 공개 저장소 [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source)에서 [MIT 라이선스](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE)로 제공됩니다.
+Sion Keys 애플리케이션의 원래 코드는 공개 저장소 [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source)에서 [MIT 라이선스](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE)로 제공됩니다.
 
 데스크톱 앱은 Tauri, React, TypeScript로 만들어졌습니다. 오디오 분석은 Python으로 구현되고, 미디어 처리에는 FFmpeg를 씁니다.
 
-구현을 살펴보고, 문제를 알리고, 개선에 참여할 수 있습니다. 함께 제공되는 의존성, 그림, 모델, 그 밖의 제3자 자료는 각자의 라이선스를 유지합니다. 조건은 [제3자 고지](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md)에 있습니다.
+구현을 살펴보고, 문제를 알리고, 개선에 참여할 수 있습니다. 함께 제공되는 의존성, 그림, 모델, 그 밖의 제3자 자료는 각자의 라이선스를 유지합니다. 조건은 [제3자 고지](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md)에 있습니다.
 
 ## 기여
 
-기여는 [공개 소스 저장소](https://github.com/Stefan7kk/sion-keys-source)에서 합니다.
+기여는 [공개 소스 저장소](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source)에서 합니다.
 
 - 버그를 보고합니다.
 - 개선을 제안합니다.
@@ -121,7 +121,7 @@ Sion Keys 애플리케이션의 원래 코드는 공개 저장소 [Stefan7kk/sio
 - 번역을 다듬습니다.
 - 음악 분석 기능을 시험하는 일을 돕습니다.
 
-재현 단계와 앱 버전을 적어 [이슈](https://github.com/Stefan7kk/sion-keys-source/issues)를 열거나, 같은 저장소로 풀 리퀘스트를 보내세요. 공개 예에는 공유해도 되는 오디오와 가사를 쓰세요. 설치된 앱에 대한 질문은 이 다운로드 저장소의 [지원 이슈](https://github.com/Stefan7kk/sion-keys-releases/issues)로도 보낼 수 있습니다.
+재현 단계와 앱 버전을 적어 [이슈](https://github.com/Stefan7kk/sion-keys-releases/issues)를 열거나, 같은 저장소로 풀 리퀘스트를 보내세요. 공개 예에는 공유해도 되는 오디오와 가사를 쓰세요. 설치된 앱에 대한 질문은 이 다운로드 저장소의 [지원 이슈](https://github.com/Stefan7kk/sion-keys-releases/issues)로도 보낼 수 있습니다.
 
 <details>
 <summary>분석 결과에 관하여</summary>

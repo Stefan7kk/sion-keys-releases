@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="تنزيل Sion Keys لنظام Windows‏ (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>الشفرة المصدرية</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">كل الإصدارات</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>الشفرة المصدرية</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">كل الإصدارات</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@
 
 ## مصدر مفتوح
 
-شفرة تطبيق Sion Keys الأصلية متاحة برخصة [MIT](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) في المستودع العام [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source).
+شفرة تطبيق Sion Keys الأصلية متاحة برخصة [MIT](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE) في المستودع العام [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 تطبيق سطح المكتب مبني بـ Tauri وReact وTypeScript. تحليل الصوت مكتوب بـ Python، ويُستخدم FFmpeg لمعالجة الوسائط.
 
-يمكنكم مراجعة التنفيذ والإبلاغ عن المشكلات والمساهمة بتحسينات. التبعيات والرسوم والنماذج والموارد الأخرى المضمّنة من أطراف ثالثة تبقى على رخصها. الشروط مذكورة في [إشعارات الأطراف الثالثة](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md).
+يمكنكم مراجعة التنفيذ والإبلاغ عن المشكلات والمساهمة بتحسينات. التبعيات والرسوم والنماذج والموارد الأخرى المضمّنة من أطراف ثالثة تبقى على رخصها. الشروط مذكورة في [إشعارات الأطراف الثالثة](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md).
 
 ## المساهمة
 
-تتم المساهمة في [مستودع الشفرة العام](https://github.com/Stefan7kk/sion-keys-source).
+تتم المساهمة في [مستودع الشفرة العام](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 - أبلغوا عن الأخطاء.
 - اقترحوا تحسينات.
@@ -121,7 +121,7 @@
 - حسّنوا الترجمات.
 - ساعدوا في اختبار تحليل الموسيقى.
 
-افتحوا [بلاغًا](https://github.com/Stefan7kk/sion-keys-source/issues) مع خطوات إعادة المشكلة وإصدار التطبيق، أو أرسلوا طلب دمج إلى المستودع نفسه. في مثال عام استخدموا صوتًا وكلامًا يحق لكم مشاركتهما. أسئلة التطبيق المثبَّت يمكن أن تذهب أيضًا إلى [بلاغات الدعم](https://github.com/Stefan7kk/sion-keys-releases/issues) في مستودع التنزيل هذا.
+افتحوا [بلاغًا](https://github.com/Stefan7kk/sion-keys-releases/issues) مع خطوات إعادة المشكلة وإصدار التطبيق، أو أرسلوا طلب دمج إلى المستودع نفسه. في مثال عام استخدموا صوتًا وكلامًا يحق لكم مشاركتهما. أسئلة التطبيق المثبَّت يمكن أن تذهب أيضًا إلى [بلاغات الدعم](https://github.com/Stefan7kk/sion-keys-releases/issues) في مستودع التنزيل هذا.
 
 <details>
 <summary>عن نتائج التحليل</summary>

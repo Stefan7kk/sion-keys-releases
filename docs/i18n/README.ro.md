@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Descarcă Sion Keys pentru Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>Codul sursă</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">Toate versiunile</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>Codul sursă</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">Toate versiunile</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@ Programul de instalare include motorul de analiză. Transcrierea locală a versu
 
 ## Sursă deschisă
 
-Codul original al aplicației Sion Keys este disponibil sub [licența MIT](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) în depozitul public [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source).
+Codul original al aplicației Sion Keys este disponibil sub [licența MIT](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE) în depozitul public [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 Aplicația desktop este construită cu Tauri, React și TypeScript. Analiza audio este scrisă în Python, iar FFmpeg se ocupă de medii.
 
-Poți examina implementarea, raporta probleme și contribui cu îmbunătățiri. Dependențele, imaginile, modelele și celelalte resurse terțe incluse își păstrează licențele. Condițiile sunt în [mențiunile terților](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md).
+Poți examina implementarea, raporta probleme și contribui cu îmbunătățiri. Dependențele, imaginile, modelele și celelalte resurse terțe incluse își păstrează licențele. Condițiile sunt în [mențiunile terților](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md).
 
 ## Contribuie
 
-Contribuțiile se fac în [depozitul public al codului](https://github.com/Stefan7kk/sion-keys-source).
+Contribuțiile se fac în [depozitul public al codului](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 - Raportează erori.
 - Propune îmbunătățiri.
@@ -121,7 +121,7 @@ Contribuțiile se fac în [depozitul public al codului](https://github.com/Stefa
 - Îmbunătățește traducerile.
 - Ajută la testarea analizei muzicale.
 
-Deschide o [problemă](https://github.com/Stefan7kk/sion-keys-source/issues) cu pașii de reproducere și versiunea aplicației, sau trimite un pull request către același depozit. Într-un exemplu public, folosește audio și versuri pe care ai voie să le împarți. Întrebările despre aplicația instalată pot merge și la [problemele de suport](https://github.com/Stefan7kk/sion-keys-releases/issues) din acest depozit de descărcări.
+Deschide o [problemă](https://github.com/Stefan7kk/sion-keys-releases/issues) cu pașii de reproducere și versiunea aplicației, sau trimite un pull request către același depozit. Într-un exemplu public, folosește audio și versuri pe care ai voie să le împarți. Întrebările despre aplicația instalată pot merge și la [problemele de suport](https://github.com/Stefan7kk/sion-keys-releases/issues) din acest depozit de descărcări.
 
 <details>
 <summary>Despre rezultatele analizei</summary>

@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Windows için Sion Keys’i indirin (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>Kaynak kod</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">Tüm sürümler</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>Kaynak kod</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">Tüm sürümler</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@ Kurucu, temel analiz motorunu içerir. Yerel söz transkripsiyonu isteğe bağl�
 
 ## Açık kaynak
 
-Özgün Sion Keys uygulama kodu, [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source) deposunda [MIT Lisansı](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) altındadır.
+Özgün Sion Keys uygulama kodu, [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source) deposunda [MIT Lisansı](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE) altındadır.
 
 Masaüstü uygulama Tauri, React ve TypeScript ile kuruludur. Ses analizi Python ile yazılmıştır; ortamayı FFmpeg işler.
 
-Uygulamayı inceleyebilir, sorun bildirebilir ve iyileştirme önerebilirsiniz. Paketlenen bağımlılıklar, görseller, modeller ve diğer üçüncü taraf kaynaklar kendi lisanslarını korur. Koşullar [üçüncü taraf bildirimlerinde](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md) yer alır.
+Uygulamayı inceleyebilir, sorun bildirebilir ve iyileştirme önerebilirsiniz. Paketlenen bağımlılıklar, görseller, modeller ve diğer üçüncü taraf kaynaklar kendi lisanslarını korur. Koşullar [üçüncü taraf bildirimlerinde](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md) yer alır.
 
 ## Katkıda bulunun
 
-Katkılar [genel kaynak deposunda](https://github.com/Stefan7kk/sion-keys-source) yapılır.
+Katkılar [genel kaynak deposunda](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source) yapılır.
 
 - Hata bildirin.
 - İyileştirme önerin.
@@ -121,7 +121,7 @@ Katkılar [genel kaynak deposunda](https://github.com/Stefan7kk/sion-keys-source
 - Çevirileri geliştirin.
 - Müzik analizi özelliklerini sınamaya yardım edin.
 
-Yeniden üretme adımları ve uygulama sürümüyle bir [sorun](https://github.com/Stefan7kk/sion-keys-source/issues) açın veya aynı depoya çekme isteği gönderin. Herkese açık bir örnekte, paylaşma izniniz olan ses ve söz kullanın. Kurulu uygulamayla ilgili sorular bu indirme deposundaki [destek sorunlarına](https://github.com/Stefan7kk/sion-keys-releases/issues) da yazılabilir.
+Yeniden üretme adımları ve uygulama sürümüyle bir [sorun](https://github.com/Stefan7kk/sion-keys-releases/issues) açın veya aynı depoya çekme isteği gönderin. Herkese açık bir örnekte, paylaşma izniniz olan ses ve söz kullanın. Kurulu uygulamayla ilgili sorular bu indirme deposundaki [destek sorunlarına](https://github.com/Stefan7kk/sion-keys-releases/issues) da yazılabilir.
 
 <details>
 <summary>Analiz sonuçları hakkında</summary>

@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="הורדת Sion Keys ל־Windows‏ (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>קוד מקור</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">כל המהדורות</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>קוד מקור</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">כל המהדורות</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@
 
 ## קוד פתוח
 
-קוד היישום המקורי של Sion Keys זמין תחת [רישיון MIT](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) במאגר הציבורי [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source).
+קוד היישום המקורי של Sion Keys זמין תחת [רישיון MIT](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE) במאגר הציבורי [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 יישום שולחן העבודה בנוי עם Tauri, ‏React ו־TypeScript. ניתוח השמע כתוב ב־Python, ו־FFmpeg מטפל במדיה.
 
-אפשר לבדוק את המימוש, לדווח על בעיות ולתרום שיפורים. רכיבים מצורפים, עיצוב, מודלים ומשאבים אחרים של צד שלישי נשארים ברישיון שלהם. התנאים מפורטים ב[הודעות צד שלישי](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md).
+אפשר לבדוק את המימוש, לדווח על בעיות ולתרום שיפורים. רכיבים מצורפים, עיצוב, מודלים ומשאבים אחרים של צד שלישי נשארים ברישיון שלהם. התנאים מפורטים ב[הודעות צד שלישי](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md).
 
 ## תרומה
 
-התרומה נעשית ב[מאגר הקוד הציבורי](https://github.com/Stefan7kk/sion-keys-source).
+התרומה נעשית ב[מאגר הקוד הציבורי](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 - דווחו על תקלות.
 - הציעו שיפורים.
@@ -121,7 +121,7 @@
 - שפרו תרגומים.
 - עזרו לבדוק את ניתוח המוזיקה.
 
-פתחו [דיווח](https://github.com/Stefan7kk/sion-keys-source/issues) עם צעדים לשחזור ועם גרסת היישום, או שלחו בקשת משיכה לאותו מאגר. בדוגמה ציבורית השתמשו בשמע ובמילים שיש לכם רשות לשתף. שאלות על היישום המותקן יכולות להישלח גם אל [סוגיות התמיכה](https://github.com/Stefan7kk/sion-keys-releases/issues) במאגר ההורדות.
+פתחו [דיווח](https://github.com/Stefan7kk/sion-keys-releases/issues) עם צעדים לשחזור ועם גרסת היישום, או שלחו בקשת משיכה לאותו מאגר. בדוגמה ציבורית השתמשו בשמע ובמילים שיש לכם רשות לשתף. שאלות על היישום המותקן יכולות להישלח גם אל [סוגיות התמיכה](https://github.com/Stefan7kk/sion-keys-releases/issues) במאגר ההורדות.
 
 <details>
 <summary>על תוצאות הניתוח</summary>

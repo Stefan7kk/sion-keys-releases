@@ -26,14 +26,14 @@
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Stefan7kk/sion-keys-releases?style=flat-square&amp;label=release&amp;color=1f6feb"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
   <a href="../../LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><img alt="Source code" src="https://img.shields.io/badge/source-code-3a3a3a?style=flat-square"></a>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/issues"><img alt="Report an issue" src="https://img.shields.io/badge/report-an%20issue-3a3a3a?style=flat-square"></a>
-  <a href="https://github.com/Stefan7kk/sion-keys-source/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-source?style=flat-square"></a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Stefan7kk/sion-keys-releases?style=flat-square"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Descargar Sion Keys para Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys-Windows%2064--bit-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-source"><b>Código fuente</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">Todas las versiones</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/tree/main/source"><b>Código fuente</b></a> · <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">Todas las versiones</a>
 </p>
 
 <table width="100%">
@@ -105,15 +105,15 @@ El instalador incluye el motor de análisis. La transcripción local de la letra
 
 ## Código abierto
 
-El código original de la aplicación Sion Keys está disponible bajo la [licencia MIT](https://github.com/Stefan7kk/sion-keys-source/blob/main/LICENSE) en el repositorio público [Stefan7kk/sion-keys-source](https://github.com/Stefan7kk/sion-keys-source).
+El código original de la aplicación Sion Keys está disponible bajo la [licencia MIT](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/LICENSE) en el repositorio público [Stefan7kk/sion-keys-releases](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 La aplicación de escritorio está hecha con Tauri, React y TypeScript. El análisis de audio está escrito en Python, y FFmpeg se ocupa de los medios.
 
-Puedes revisar la implementación, informar de problemas y proponer mejoras. Las dependencias, las imágenes, los modelos y otros recursos de terceros incluidos conservan sus propias licencias. Esas condiciones están en los [avisos de terceros](https://github.com/Stefan7kk/sion-keys-source/blob/main/THIRD_PARTY_LICENSES.md).
+Puedes revisar la implementación, informar de problemas y proponer mejoras. Las dependencias, las imágenes, los modelos y otros recursos de terceros incluidos conservan sus propias licencias. Esas condiciones están en los [avisos de terceros](https://github.com/Stefan7kk/sion-keys-releases/blob/main/source/THIRD_PARTY_LICENSES.md).
 
 ## Contribuir
 
-Las contribuciones se hacen en el [repositorio público del código](https://github.com/Stefan7kk/sion-keys-source).
+Las contribuciones se hacen en el [repositorio público del código](https://github.com/Stefan7kk/sion-keys-releases/tree/main/source).
 
 - Informa de errores.
 - Sugiere mejoras.
@@ -121,7 +121,7 @@ Las contribuciones se hacen en el [repositorio público del código](https://git
 - Mejora las traducciones.
 - Ayuda a probar el análisis musical.
 
-Abre una [incidencia](https://github.com/Stefan7kk/sion-keys-source/issues) con los pasos para reproducir el problema y la versión de la aplicación, o envía una solicitud de cambio al mismo repositorio. En un ejemplo público, usa audio y letras que tengas permiso para compartir. Las preguntas sobre la aplicación instalada también pueden ir a las [incidencias de soporte](https://github.com/Stefan7kk/sion-keys-releases/issues) de este repositorio de descargas.
+Abre una [incidencia](https://github.com/Stefan7kk/sion-keys-releases/issues) con los pasos para reproducir el problema y la versión de la aplicación, o envía una solicitud de cambio al mismo repositorio. En un ejemplo público, usa audio y letras que tengas permiso para compartir. Las preguntas sobre la aplicación instalada también pueden ir a las [incidencias de soporte](https://github.com/Stefan7kk/sion-keys-releases/issues) de este repositorio de descargas.
 
 <details>
 <summary>Sobre los resultados del análisis</summary>
