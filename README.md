@@ -1,19 +1,31 @@
-<h1 align="center">Sion Keys</h1>
-
 <p align="center">
-  <img src="assets/sion-keys-icon.png" alt="Sion Keys" width="160">
+  <img src="assets/sion-keys-wordmark.png" alt="Sion Keys" width="340">
 </p>
 
-<h2 align="center">Analyze songs. Find chords. Learn. Play.</h2>
+<p align="center">
+  <img src="assets/sion-keys-icon.png" alt="Sion Keys icon" width="128">
+</p>
 
----
-
-<p align="center"><strong>Chord &amp; Key Analyzer for Musicians, Learners and Worship Teams</strong></p>
-<p align="center">Discover the chords and musical key of your favorite songs, follow lyrics with chord annotations, and practice with interactive piano, guitar and bass diagrams.</p>
-<p align="center">Windows 10/11 · Free to Use · Automatic Updates · Worship-Friendly</p>
+<h1 align="center">Analyze songs. Find chords. Learn. Play.</h1>
 
 <p align="center">
-  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><strong>Download Sion Keys for Windows (64-bit)</strong></a><br>
+  <b>English</b> · Български · עברית · Türkçe · Español · Français · Deutsch · Português · Italiano · Русский · 简体中文 · 日本語 · 한국어 · العربية · हिन्दी · বাংলা · Bahasa Indonesia · اردو · Tiếng Việt · ไทย · Polski · Українська · Română
+</p>
+
+<p align="center">
+  <b>Chord &amp; Key Analyzer for Musicians, Learners and Worship Teams.</b><br>
+  Discover the chords and musical key of your favorite songs, follow lyrics with chord annotations, and practice with interactive piano, guitar and bass diagrams.
+</p>
+
+<p align="center">
+  <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%2F11-2d81ff?style=flat-square">
+  <img alt="Free to use" src="https://img.shields.io/badge/Free-to%20use-3a3a3a?style=flat-square">
+  <a href="LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square"></a>
+  <img alt="Automatic updates" src="https://img.shields.io/badge/updates-automatic-1f6feb?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Download Sion Keys for Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys%20for%20Windows%20(64--bit)-1f6feb?style=for-the-badge"></a><br>
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">All releases</a>
 </p>
 
