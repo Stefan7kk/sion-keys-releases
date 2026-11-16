@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sion-keys-wordmark.png" alt="Sion Keys" width="340">
+  <img src="assets/sion-keys-wordmark.png" alt="Sion Keys" width="480">
 </p>
 
 <p align="center">
