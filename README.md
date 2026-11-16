@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/Stefan7kk/sion-keys-releases/releases/latest"><img alt="Download Sion Keys for Windows (64-bit)" src="https://img.shields.io/badge/Download%20Sion%20Keys%20for%20Windows%20(64--bit)-1f6feb?style=for-the-badge"></a><br>
-  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">All releases</a>
+  <a href="https://github.com/Stefan7kk/sion-keys-releases/releases">All releases</a> · <a href="https://github.com/Stefan7kk/sion-keys-source">View source code</a>
 </p>
 
 <table width="100%">
