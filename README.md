@@ -1,12 +1,9 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/sion-keys-wordmark-dark.png">
-    <img src="assets/sion-keys-wordmark.png" alt="Sion Keys" width="480" height="118">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="assets/sion-keys-icon.png" alt="Sion Keys icon" width="128">
+    <img src="assets/sion-keys-wordmark.png" alt="Sion Keys" width="480">
+  </picture><br>
+  <img src="assets/sion-keys-icon.png" alt="Sion Keys icon" width="112">
 </p>
 
 <h1 align="center">Analyze songs. Find chords. Learn. Play.</h1>
