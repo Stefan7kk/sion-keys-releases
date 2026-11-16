@@ -29,21 +29,6 @@
   >
 </p>
 
-## Themes
-
-Choose Ice, Warm, Rich, or Dark in **Settings → Appearance**.
-
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-ice.webp"><img src="assets/screenshots/theme-ice.webp" alt="Sion Keys welcome screen in the Ice theme" width="100%"></a><br><strong>Ice</strong></td>
-    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-warm.webp"><img src="assets/screenshots/theme-warm.webp" alt="Sion Keys welcome screen in the Warm theme" width="100%"></a><br><strong>Warm</strong></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-rich.webp"><img src="assets/screenshots/theme-rich.webp" alt="Sion Keys welcome screen in the Rich theme" width="100%"></a><br><strong>Rich</strong></td>
-    <td align="center" valign="top" width="50%"><a href="assets/screenshots/theme-dark.webp"><img src="assets/screenshots/theme-dark.webp" alt="Sion Keys welcome screen in the Dark theme" width="100%"></a><br><strong>Dark</strong></td>
-  </tr>
-</table>
-
 ## Quick Start
 
 1. Download and install Sion Keys.
