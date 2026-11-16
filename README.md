@@ -1,8 +1,13 @@
+<h1 align="center">Sion Keys</h1>
+
 <p align="center">
-  <img src="assets/sion-keys-banner.png" alt="Sion Keys. Chord and Key Analyzer. Analyze songs. Find chords. Learn. Play." width="100%">
+  <img src="assets/sion-keys-icon.png" alt="Sion Keys" width="160">
 </p>
 
-<h1 align="center">Sion Keys</h1>
+<h2 align="center">Analyze songs. Find chords. Learn. Play.</h2>
+
+---
+
 <p align="center"><strong>Chord &amp; Key Analyzer for Musicians, Learners and Worship Teams</strong></p>
 <p align="center">Discover the chords and musical key of your favorite songs, follow lyrics with chord annotations, and practice with interactive piano, guitar and bass diagrams.</p>
 <p align="center">Windows 10/11 · Free to Use · Automatic Updates · Worship-Friendly</p>
@@ -96,3 +101,7 @@ Above all, I am grateful to God for the opportunity to build something that may 
 [Open a support issue](https://github.com/Stefan7kk/sion-keys-releases/issues) with your app and Windows versions and a short description of what happened. Keep private recordings, lyrics, and account details out of public reports.
 
 Copyright © 2026 Stefan Dimov. The installer includes the [MIT license](LICENSE) and notices for bundled third-party components.
+
+<p align="center">
+  <img src="assets/sion-keys-banner-dark.png" alt="Sion Keys. Chord and Key Analyzer. Analyze songs. Find chords. Learn. Play." width="100%">
+</p>
